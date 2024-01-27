@@ -7,6 +7,12 @@
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%40Spiliv8ler-blue?logo=telegram&style=flat-square">
 </a>
 </div>
+<div id="about-me" align="center">
+  <h1>About me:</h1>
+  <p>I am an Innopolis University student, second year Bachelor. I really enjoy cross-platform mobile development with Flutter.</p>
+</div>
+
+
 
 <!--
 **VechkanovVV/VechkanovVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
