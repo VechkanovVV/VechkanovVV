@@ -9,7 +9,7 @@
 </div>
 <div id="about-me" align="center">
   <h1>About me:</h1>
-  <p>I am an Innopolis University student, second year Bachelor. I really enjoy cross-platform mobile development with Flutter.</p>
+  <p>I am an Innopolis University student, third year Bachelor.</p>
 </div>
 
 
