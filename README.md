@@ -1,5 +1,3 @@
-## 👋 I am a 3rd-year student at Innopolis University
-
 ### 🔧 Languages and Tools
 
 #### Programming Languages:
